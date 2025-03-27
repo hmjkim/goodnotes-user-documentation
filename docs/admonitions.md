@@ -1,7 +1,14 @@
-hello
+# Admonitions
 
 !!! note "Note"
     lorem ipsum
 
-??? warning "Collapsible"
-    Lorem   
+!!! warning "Warning"
+    Lorem 
+
+!!! success "Success"
+    lorem ipsum
+
+!!! tip "Tip"
+    lorem ipsum
+
