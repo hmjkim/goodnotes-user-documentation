@@ -4,4 +4,4 @@ hello
     lorem ipsum
 
 ??? warning "Collapsible"
-    Lorem   
+    Lorem
