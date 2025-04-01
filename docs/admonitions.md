@@ -11,4 +11,3 @@
 
 !!! tip "Tip"
     lorem ipsum
-
