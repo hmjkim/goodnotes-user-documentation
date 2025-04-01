@@ -1,67 +1,74 @@
+
 # Create and Customize New Notebook
 
 ## Overview
-This section explains how to create a new notebook in GoodNotes and customize its cover and internal template. This task is essential for users starting their digital note-taking journey.
+This guide explains how to create a new notebook in GoodNotes 6 and customize its cover and paper templates, and and internal document settings.
 
 ## Create a New Notebook
 
-1. Launch the app
+1. **Launch the App**
 
-![Initial Screen](./assets/Documents.png)
+   ![Initial Documents View](assets/notebook/documents-view.jpg "Initial Documents View")
 
-When you open the GoodNotes 6 app, you will see the empty Documents page which will be served as your homepage. You can start creating a new notebook and folders in `Documents` section.
+   When you open the GoodNotes 6 app, you'll see an empty `Documents` page that serves as your homepage. From here, you can start creating new notebooks and folders.
 
-<!-- 2. Choose Location  -->
+   > **NOTE:** The Documents page is the default starting point. Familiarize yourself with its layout before proceeding.
 
-<!-- 3. Access the library -->
+2. **Click the ‘+’ Icon**
 
-2. Click the ‘+’ icon 
+   Select the “NOTEBOOK” option from the top menu. The app offers several options, such as creating a study set, folder, image note, scanned document, quick note, or quick record. 
 
-Choose the “NOTEBOOK” options from the menu on the top. + 여러 options이 잇다.
-- annotate Notebook button 
+   //annotate Notebook button 
 
-![New Notebook](./assets/new-notebook.png)
+   > **HINT:** If you plan on drawing or annotating immediately, choose the option that highlights notebook annotation.
 
+   ![New Notebook](./assets/new-notebook.png)
 
-3. Configure notebook settings 
-- name
-- language
-- cover toggle 
+3. **Configure Notebook Settings**
 
+   Set up your notebook by adjusting the following:
+   - **Name:** Enter the notebook title.
+   - **Language:** Select your preferred language.
+   - **Cover Toggle:** Choose whether to include a cover.
 
-4. Choose Cover design
-- choose from cover templates 
-    - you can also import your own templates 
-    - you can go to marketplace and purchase one you like
+   > **IMPORTANT:** Be sure to set your desired language and cover toggle now, as these settings might be difficult to change later.
 
-- each template has its unique set of colours you can choose from 
-- you can choose from different sizes (A4, Letter)
+4. **Choose a Cover Design**
 
-eg. Notebook name : COMM 2216
+   Pick a cover design from the provided templates. You can also import your own cover templates or visit the marketplace to purchase one that suits your style. Each template offers a unique color palette, and you have options for different sizes (such as A4 or Letter).
 
-5. Select Paper template 
-- similar to cover, you can select various templates (essesntials, writing paper, music sheets, planner)
-- can also import own template, or search through
+   > **TIP:** A well-chosen cover can help you visually organize your notebooks. Consider creating a custom design if none of the templates match your style.
 
-6. Save the notebook to click “Create” button.
+   *Example: Notebook Name – COMM 2216*
+
+5. **Select a Paper Template**
+
+   Choose an interior paper template for your notebook. Options include essentials, lined paper, music sheets, and planners. You may also import your own template or search for one that meets your needs.
+
+   > **NOTE:** The paper template you choose will influence the overall feel of your notebook pages, so select one that best fits your intended use.
+
+6. **Save the Notebook**
+
+   Click the **“Create”** button to save your new notebook.
+
+   > **IMPORTANT:** Once you click “Create,” some settings may become less flexible. Review your configuration carefully before saving.
 
 ## Notebook Customization
-(scrolling direction, toolbar customization, stylus palm rejection, sensitivity) 
 
-1. Click on the `...` to see more options
+Personalize your notebook further by adjusting settings like scrolling direction, toolbar layout, stylus palm rejection, and sensitivity.
 
-***** annotate  `...` 
-- you will see different options 
-- current page info 
-- rotate, change template (you can change template here again)
+1. **Access Additional Options**
 
-2. Select `Document Editing` 
-- you can scroll down to `Settings` & select `Document editing`
-- based on your preferences, toggle on/ off the one you like
-- !!Tip!! - You are left handed -> you can change writing posture.
-- !!Warning!! - if wrong posture setting -> can cause unexpected behaviour (eg. recognition error -> you are writing but it won't show)
+   Click the `...` (more options) icon to view additional customization settings. This menu displays various options such as current page information, rotation, and template changes.
 
+   // ***** annotate  `...` 
 
-Click ```((at the top right)) -> notebook setting -> click “Document editing” button. Customization -> Document editing settings (scrolling direction, toolbar customization, stylus palm rejection, sensitivity) 
-Bookmarks, outlines
+   > **TIP:** Explore the additional options to fully leverage customization features available in your notebook.
 
+2. **Select Document Editing Options**
+
+   Scroll down to **Settings** and choose **Document Editing**. Toggle the options based on your preferences.
+
+   > **Tip:** If you're left-handed, adjust the writing posture accordingly.
+   
+   > **WARNING:** Incorrect posture settings may lead to recognition errors, causing your writing not to appear as expected.
