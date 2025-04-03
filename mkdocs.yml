@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: GoodNotes User Documentation
 site_url: https://user-doc.com
 theme:
   name: material
@@ -8,8 +8,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: blue
+      accent: light blue
 
     # Light Mode
     - scheme: default
@@ -17,7 +17,7 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: blue
-      accent: deep orange
+      accent: light blue
 
 markdown_extensions:
   - attr_list
