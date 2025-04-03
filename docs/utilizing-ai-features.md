@@ -34,7 +34,7 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
     ![Expression Highlighted](./assets/ai/expression-highlight.png) 
     GoodNotes automatically detects your handwritten equation and highlights it in light blue. The highlight slowly flashes to indicate that further action is required.
 
-4. **Select “Solve”**  
+4. **Select [Solve]**  
    ![Solve Equation](./assets/ai/solve.png)  
    Tap the highlighted equation and choose **Solve**. GoodNotes will compute and display the result.
 
@@ -70,21 +70,21 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 2. **Write a Keyword** 
 
-	Write “midterm” in the blank space using your natural handwriting style.
+	Write a keyword, `midterm`, in the blank space using your natural handwriting style.
 	
 	!!! note 
 		Imagine your instructor mentioned in a Java class that a certain topic will be on the midterm exam. You can search for the “midterm” keyword to mark important exam topics and refer back to them as needed.
 
-3. **Tap the Search Icon**
+3. **Tap the [Search Icon]**
    ![Keyword search](./assets/ai/search.png)  
-  	In the toolbar, tap the Search icon in the top-left corner, then enter your keyword.
+  	In the toolbar, tap the [Search icon] in the top-left corner, then enter your keyword.
 
     !!! tip
         You can use your Apple Pencil or stylus to write directly into the search bar.
 
 4. **Review the Search Results**
 
-	GoodNotes displays page thumbnails with your keyword highlighted. Select the page you want to open. You can toggle between **Notes** and **Outlines** to refine your search.
+	GoodNotes displays page thumbnails with your keyword highlighted. Select the page you want to open. You can toggle between [Notes] and [Outlines] to refine your search.
 
 ## Use Real-Time Spelling Correction
 
@@ -94,7 +94,7 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 2. **Write a Commonly Misspelled Word**  
 
-	Write “Recive” instead of “Receive” in your natural handwriting. GoodNotes underlines the misspelled word in red.
+	Write `Recive` instead of `Receive` in your natural handwriting. GoodNotes underlines the misspelled word in red.
 
 3. **Tap the Underlined Word to See Suggestions**  
 

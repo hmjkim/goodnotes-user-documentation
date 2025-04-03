@@ -29,7 +29,7 @@ This documentation uses specific formatting to help you follow the instructions 
 
 | Convention   | Explanation  | Example   |
 | -------------| ------------ | --------- |
-| **Bold Commands** | Denotes actions or instructions you should perform, typically involving clicking, tapping, or selecting.     | **Click**, **Tap**, **Type**, **Open**, **Select**  |
+| **Bold Commands** | Denotes main actions or instructions you should perform, typically involving clicking, tapping, or selecting.     | **Click**, **Tap**, **Type**, **Open**, **Select**  |
 | `Inline Expression` | Used for small bits of text or code that requires emphasis. | `3 + 4 =` |
 | [Interface Element] | Represents UI elements like buttons, icons, or menu items within GoodNotes. | [Notebook], [Import], [Search Icon] |
 

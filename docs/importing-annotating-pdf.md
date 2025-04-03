@@ -21,7 +21,7 @@ There are two methods to import a PDF:
 
 2. **Add a New Page**  
    ![Add page in the Notebook](./assets/notebook/existing_documents_add_page.png)
-   Click the **Add Icon** (located at the top-right) to add a new page.
+   Click the [Add Icon] (located at the top-right) to add a new page.
 
 3. **Select the Insertion Point**  
    ![option Selection](./assets/notebook/option-selection.png)
@@ -30,9 +30,9 @@ There are two methods to import a PDF:
     !!! tip "Tip"
          Selecting the correct insertion point helps maintain the document's flow.
 
-4. **Choose the “Import” Option**  
+4. **Choose the [Import] Option**  
    ![import Selection ](./assets/notebook/import-selection.png)
-   In the menu that appears, select the **“Import”** option.
+   In the menu that appears, select the [Import] option.
 
 ### Method 2: Import as a New Document
 
