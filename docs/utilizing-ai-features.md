@@ -12,45 +12,46 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 ## Convert Handwritten Math Equations
 
 1. **Open an Existing or New Notebook**
-   ![Notebook opened](/assets/ai/empty-page.png) 
+
+   ![Notebook opened](./assets/ai/empty-page.png) 
    Launch the GoodNotes app and choose the notebook you want to use.
    
     !!! warning
         Make sure you have enough space or a blank page to write your equation.
 
 2. **Write a Mathematical Expression**
-   ![Write a simple expression](/assets/ai/simple-expression.png)  
+   ![Write a simple expression](./assets/ai/simple-expression.png)  
    We are going to try a simple addition. In the blank space, write down `354 + 674 =`.
 
     !!! warning
         GoodNotes cannot interpret an equation if you forget to include an equals sign `=` on the right side of the expression. For example, `5 - 2` without an equals sign or with the sign placed underneath the expression will not be detected.
-        ![Misplacement of the equals sign](/assets/ai/detection-error.png)
+        ![Misplacement of the equals sign](./assets/ai/detection-error.png)
 
     !!! tip
         Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
-        ![Express answer in different formats](/assets/ai/fraction-options.png) 
+        ![Express answer in different formats](./assets/ai/fraction-options.png) 
 
 3. **Wait for the Equation to Be Highlighted**  
-    ![Expression Highlighted](/assets/ai/expression-highlight.png) 
+    ![Expression Highlighted](./assets/ai/expression-highlight.png) 
     GoodNotes automatically detects your handwritten equation and highlights it in light blue. The highlight slowly flashes to indicate that further action is required.
 
 4. **Select “Solve”**  
-   ![Solve Equation](/assets/ai/solve.png)  
+   ![Solve Equation](./assets/ai/solve.png)  
    Tap the highlighted equation and choose **Solve**. GoodNotes will compute and display the result.
 
 	!!! note
     	You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
 
-		![Edit expression](/assets/ai/expression-edit.png)  
+		![Edit expression](./assets/ai/expression-edit.png)  
 		*Edit your expression.*
 
-		![Convert expression](/assets/ai/convert.png)  
+		![Convert expression](./assets/ai/convert.png)  
 		*Convert your expression into typed text.*
 
 5. **Write Over the Computed Answer**
-   ![Suggested answer](/assets/ai/1-suggested-answer.png)
-   ![Write over your answer](/assets/ai/2-write-your-answer.png)
-   ![Suggested answer disappear](/assets/ai/3-suggestion-disappear.png)
+   ![Suggested answer](./assets/ai/1-suggested-answer.png)
+   ![Write over your answer](./assets/ai/2-write-your-answer.png)
+   ![Suggested answer disappear](./assets/ai/3-suggestion-disappear.png)
    The computed answer appears in blue. Simply write over it to replace it with your own text.
 
     !!! note
@@ -76,7 +77,7 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 		Imagine your instructor mentioned in a Java class that a certain topic will be on the midterm exam. You can search for the “midterm” keyword to mark important exam topics and refer back to them as needed.
 
 3. **Tap the Search Icon**
-   ![Keyword search](/assets/ai/search.png)  
+   ![Keyword search](./assets/ai/search.png)  
   	In the toolbar, tap the Search icon in the top-left corner, then enter your keyword.
 
     !!! tip
@@ -98,8 +99,8 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 3. **Tap the Underlined Word to See Suggestions**  
 
-	![Misspelled word](/assets/ai/spellcheck.png) 
-	![Word corrected](/assets/ai/replaced-text.png) 
+	![Misspelled word](./assets/ai/spellcheck.png) 
+	![Word corrected](./assets/ai/replaced-text.png) 
    Choose the correct spelling to replace it. GoodNotes will analyze your handwriting and rewrite it in a style that resembles your own handwriting.
 
     !!! warning
