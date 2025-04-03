@@ -1,7 +1,19 @@
 site_name: GoodNotes User Documentation
-site_url: https://user-doc.com
+nav:
+  - Home: "index.md"
+  - Create and Customize New Notebook: "create-customize-new-notebook.md"
+  - Import and Annotate a PDF Document: "importing-annotating-pdf.md"
+  - Utilize Advanced AI-Powered Features: "utilizing-ai-features.md"
+  - Troubleshooting: "troubleshooting.md"
+  - Glossary: "glossary.md"
+  
 theme:
   name: material
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate

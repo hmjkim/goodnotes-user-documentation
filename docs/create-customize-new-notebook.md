@@ -63,7 +63,7 @@ Click the [Create] button to save your new notebook.
         Your new notebook has been created successfully! Review all settings carefully before saving to ensure everything is correct.
 
 
-## Notebook Customization
+## Customize Your Notebook
 
 Make your notebook more personal by adjusting settings like scrolling direction, toolbar layout, palm rejection for the stylus, and sensitivity.
 
