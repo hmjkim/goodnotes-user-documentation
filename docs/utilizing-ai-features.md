@@ -26,17 +26,13 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
         GoodNotes cannot interpret an equation if you forget to include an equals sign `=` on the right side of the expression. For example, `5 - 2` without an equals sign or with the sign placed underneath the expression will not be detected.
         ![Misplacement of the equals sign](./assets/ai/detection-error.png)
 
-    !!! tip
-        Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
-        ![Express answer in different formats](./assets/ai/fraction-options.png) 
-
 3. **Wait for the Equation to Be Highlighted**  
     ![Expression Highlighted](./assets/ai/expression-highlight.png) 
     GoodNotes automatically detects your handwritten equation and highlights it in light blue. The highlight slowly flashes to indicate that further action is required.
 
-4. **Select [Solve]**  
+4. **Tap the Highlighted Equation and Select [Solve]**  
    ![Solve Equation](./assets/ai/solve.png)  
-   Tap the highlighted equation and choose **Solve**. GoodNotes will compute and display the result.
+   GoodNotes will compute and display the result.
 
 	!!! note
     	You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
@@ -46,6 +42,10 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 		![Convert expression](./assets/ai/convert.png)  
 		*Convert your expression into typed text.*
+
+    !!! tip
+        Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
+        ![Express answer in different formats](./assets/ai/fraction-options.png) 
 
 5. **Write Over the Computed Answer**
    ![Suggested answer](./assets/ai/1-suggested-answer.png)
@@ -98,9 +98,13 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 3. **Tap the Underlined Word to See Suggestions**  
 
-	![Misspelled word](./assets/ai/spellcheck.png) 
-	![Word corrected](./assets/ai/replaced-text.png) 
-   Choose the correct spelling to replace it. GoodNotes will analyze your handwriting and rewrite it in a style that resembles your own handwriting.
+	![Misspelled word](./assets/ai/spellcheck.png)
+    GoodNotes will provide suggestions for the word you intended to write.
+	
+4. **Choose the Correct Spelling to Replace the Misspelled Word**
+
+    GoodNotes will analyze your handwriting and rewrite it in a style that resembles your own handwriting.
+    ![Word corrected](./assets/ai/replaced-text.png) 
 
     !!! warning
         Extremely stylized handwriting may not be recognized. Write as clearly as possible for the best results.
