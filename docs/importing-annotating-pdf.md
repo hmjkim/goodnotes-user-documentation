@@ -25,6 +25,7 @@ There are two methods to import a PDF:
 
 3. **Select the Insertion Point**  
    ![option Selection](./assets/notebook/option-selection.png)
+
       Choose whether to insert the new page before, after, or at the end of the notebook.
 
     !!! tip "Tip"
@@ -32,6 +33,7 @@ There are two methods to import a PDF:
 
 4. **Choose the [Import] Option**  
    ![import Selection ](./assets/notebook/import-selection.png)
+   
    In the menu that appears, select the [Import] option.
 
 ### Method 2: Import as a New Document
@@ -69,6 +71,7 @@ There are two methods to import a PDF:
 
 2. **Adjust Pen Settings**  
 ![Pen settings](./assets/notebook/pen-setting.png)
+   
    Choose your preferred pen type (fountain pen, ballpoint, or brush pen) and enable stroke stabilization if needed.
    
     !!! note "Note"
@@ -101,6 +104,7 @@ There are two methods to import a PDF:
 ![export](./assets/notebook/export-button.png)
 Click the **“Share and Export”** icon and select the export options.  
 ![export selection](./assets/notebook/export-selections.png)
+
 Choose whether to export the current page or all pages.
     
     !!! success "Success"
