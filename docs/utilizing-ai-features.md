@@ -12,7 +12,6 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 ## Convert Handwritten Math Equations
 
 1. **Open an Existing or New Notebook**
-
    ![Notebook opened](./assets/ai/empty-page.png) 
    Launch the GoodNotes app and choose the notebook you want to use.
    
