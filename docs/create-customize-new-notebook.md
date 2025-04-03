@@ -15,7 +15,7 @@ This guide explains how to create a new notebook in GoodNotes 6 and change its c
 
 2. **Click the [+] Icon**
 ![Icon](./assets/notebook/newnotebook-option-selection.png)
-   Select the [Notebook] option from the top menu. The app offers several options, like creating a study set, folder, image note, scanned document, quick note, or quick record. For example, tap the **annotate Notebook** button.
+   Select the [Notebook] option from the top menu. The app offers several options, like creating a study set, folder, image note, scanned document, quick note, or quick record.
 
 
     !!! tip "Tip"
