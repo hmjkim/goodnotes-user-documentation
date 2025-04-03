@@ -14,8 +14,10 @@ There are two methods to import a PDF:
 1. **Open an Existing Notebook**  
    ![Existing a Notebook](./assets/notebook/documents-view-with-notebook.png)
    Launch the GoodNotes app and open the notebook where you want to add the PDF.
-   
-   > **Note:** Ensure the notebook is set up and organized before importing a new document.
+
+
+    !!! note "Note"
+        Ensure the notebook is set up and organized before importing a new document.
 
 2. **Add a New Page**  
    ![Add page in the Notebook](./assets/notebook/existing_documents_add_page.png)
@@ -25,7 +27,8 @@ There are two methods to import a PDF:
    ![option Selection](./assets/notebook/option-selection.png)
       Choose whether to insert the new page before, after, or at the end of the notebook.
 
-   > **Tip:** Selecting the correct insertion point helps maintain the document's flow.
+    !!! tip "Tip"
+         Selecting the correct insertion point helps maintain the document's flow.
 
 4. **Choose the “Import” Option**  
    ![import Selection ](./assets/notebook/import-selection.png)
@@ -41,7 +44,8 @@ There are two methods to import a PDF:
    ![import selection from documents](./assets/notebook/Import-from-documents.png)
    Tap the **“Import”** button from the menu.
    
-   > **Tip:** Importing as a new document creates a standalone PDF file, ideal for dedicated storage.
+    !!! tip "Tip"
+        Importing as a new document creates a standalone PDF file, ideal for dedicated storage.
 
 ### Continue the Import Process
 
@@ -53,7 +57,9 @@ There are two methods to import a PDF:
 ![open button](./assets/notebook/Open-file.png)
    Confirm your selection by tapping **“Open”**.  
    
-   > **Success:** Your PDF has been imported and is now ready for annotation.
+
+    !!! success "Success"
+        Your PDF has been imported and is now ready for annotation.
 
 ## Activate Annotation Tools
 
@@ -65,7 +71,8 @@ There are two methods to import a PDF:
 ![Pen settings](./assets/notebook/pen-setting.png)
    Choose your preferred pen type (fountain pen, ballpoint, or brush pen) and enable stroke stabilization if needed.
    
-   > **Note:** Customize your pen settings to match your writing style for optimal results.
+    !!! note "Note"
+        Customize your pen settings to match your writing style for optimal results.
 
 ## Annotate the Document
    Use the active annotation tools to mark up your document: Write, highlight, or underline text as needed.
@@ -83,7 +90,10 @@ There are two methods to import a PDF:
    ![outline](./assets/notebook/outline-editting.png)
    If no outline exists, you can manually create one by using the text tool to add a table of contents or annotating a dedicated page to serve as your custom outline.
      
-   > **Tip:** Using different colors or pen types for bookmarks and outline entries can help differentiate them and improve document navigation.
+
+    !!! tip "Tip"
+        Using different colors or pen types for bookmarks and outline entries can help differentiate them and improve document navigation.
+
 
 ## Export the Annotated PDF
 
@@ -93,4 +103,5 @@ Click the **“Share and Export”** icon and select the export options.
 ![export selection](./assets/notebook/export-selections.png)
 Choose whether to export the current page or all pages.
     
- > **Success:** Your annotated PDF is now ready for sharing or backup.
+    !!! success "Success"
+        Your annotated PDF is now ready for sharing or backup.
