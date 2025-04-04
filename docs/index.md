@@ -38,13 +38,13 @@ This documentation uses specific formatting to help you follow the instructions 
 In this guide, we will use special message blocks to provide relevant and important information about the instructions. These blocks are presented in descending order of priority, from the most critical to the least.
 
 !!! warning 
-    Indicates potential issues or errors 
+    Indicates potential issues or errors.
 
 !!! note 
-    Provides additional context or important details  
+    Provides additional context or important details.  
 
 !!! tip
-    Offers useful hints or tricks  
+    Offers useful hints or tricks.
 
 !!! success 
     Shows successful outcomes or confirmations.
