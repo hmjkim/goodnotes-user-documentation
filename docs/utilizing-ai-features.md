@@ -19,38 +19,62 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
         Make sure you have enough space or a blank page to write your equation.
 
 2. **Write a Mathematical Expression**
-   ![Write a simple expression](./assets/ai/simple-expression.png)  
+<figure markdown>
+   ![Write a simple expression](./assets/ai/simple-expression.png){width="700"}
+</figure>
    We are going to try a simple addition. In the blank space, write down `354 + 674 =`.
 
-    !!! warning
-        GoodNotes cannot interpret an equation if you forget to include an equals sign `=` on the right side of the expression. For example, `5 - 2` without an equals sign or with the sign placed underneath the expression will not be detected.
-        ![Misplacement of the equals sign](./assets/ai/detection-error.png)
+!!! warning
+    GoodNotes cannot interpret an equation if you forget to include an equals sign `=` on the right side of the expression. For example, `5 - 2` without an equals sign or with the sign placed underneath the expression will not be detected.
+    <figure markdown>
+       ![Misplacement of the equals sign](./assets/ai/detection-error.png){width="700"}
+    </figure>
 
-3. **Wait for the Equation to Be Highlighted**  
-    ![Expression Highlighted](./assets/ai/expression-highlight.png) 
+3. **Wait for the Equation to Be Highlighted**
+    <figure markdown>
+       ![Expression Highlighted](./assets/ai/expression-highlight.png){width="700"}
+    </figure>  
+     
     GoodNotes automatically detects your handwritten equation and highlights it in light blue. The highlight slowly flashes to indicate that further action is required.
 
-4. **Tap the Highlighted Equation and Select [Solve]**  
-   ![Solve Equation](./assets/ai/solve.png)  
-   GoodNotes will compute and display the result.
+4. **Tap the Highlighted Equation and Select [Solve]**
+<figure markdown>
+    ![Solve Equation](./assets/ai/solve.png){width="700"}
+</figure>  
+    
+GoodNotes will compute and display the result.
 
-	!!! note
-    	You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
+!!! note
+    You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
 
-		![Edit expression](./assets/ai/expression-edit.png)  
-		*Edit your expression.*
+    <figure markdown>
+        ![Edit expression](./assets/ai/expression-edit.png)
+        <figcaption>Edit your expression.</figcaption>
+    </figure> 
 
-		![Convert expression](./assets/ai/convert.png)  
-		*Convert your expression into typed text.*
 
-    !!! tip
-        Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
-        ![Express answer in different formats](./assets/ai/fraction-options.png) 
+    <figure markdown>
+        ![Convert expression](./assets/ai/convert.png){width="700"} 
+        <figcaption>Convert your expression into typed text.</figcaption>
+    </figure>  
+
+
+!!! tip
+    Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
+    <figure markdown>
+        ![Express answer in different formats](./assets/ai/fraction-options.png){width="700"} 
+    </figure>  
 
 5. **Write Over the Computed Answer**
-   ![Suggested answer](./assets/ai/1-suggested-answer.png)
-   ![Write over your answer](./assets/ai/2-write-your-answer.png)
-   ![Suggested answer disappear](./assets/ai/3-suggestion-disappear.png)
+    <figure markdown>
+        ![Suggested answer](./assets/ai/1-suggested-answer.png){width="700"} 
+    </figure> 
+    <figure markdown>
+           ![Write over your answer](./assets/ai/2-write-your-answer.png){width="700"} 
+    </figure> 
+    <figure markdown>
+           ![Suggested answer disappear](./assets/ai/3-suggestion-disappear.png){width="700"} 
+    </figure> 
    The computed answer appears in blue. Simply write over it to replace it with your own text.
 
     !!! note
@@ -98,13 +122,17 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
 
 3. **Tap the Underlined Word to See Suggestions**  
 
-	![Misspelled word](./assets/ai/spellcheck.png)
+    <figure markdown>
+        ![Misspelled word](./assets/ai/spellcheck.png){width="700"}
+    </figure>
     GoodNotes will provide suggestions for the word you intended to write.
 	
 4. **Choose the Correct Spelling to Replace the Misspelled Word**
 
-    GoodNotes will analyze your handwriting and rewrite it in a style that resembles your own handwriting.
-    ![Word corrected](./assets/ai/replaced-text.png) 
+    GoodNotes will analyze your handwriting and rewrite it in a style that matches your own.  
+    <figure markdown>
+        ![Word corrected](./assets/ai/replaced-text.png){width="700"}
+    </figure>
 
     !!! warning
         Extremely stylized handwriting may not be recognized. Write as clearly as possible for the best results.

@@ -35,9 +35,13 @@ This guide explains how to create a new notebook in GoodNotes 6 and change its c
         A good cover not only makes your notebook look nice but also helps you keep it organized. Consider creating your own design if the default templates don’t match your taste.
 
 4. **Choose a Cover Design**
-    ![Cover design](./assets/notebook/cover-design.jpg)
-   Pick a cover design from the available templates.<br><br>
-   ![Cover marketplace](./assets/notebook/cover-marketplace.jpg)
+    <figure markdown>
+    ![Cover design](./assets/notebook/cover-design.jpg){width="700"}
+    </figure>
+    Pick a cover design from the available templates.<br><br>
+    <figure markdown>
+    ![Cover marketplace](./assets/notebook/cover-marketplace.jpg){width="700"}
+    </figure>
    You can also import your own cover designs or visit the marketplace to buy one that suits your style. Each template offers a unique color scheme, and you can choose from different sizes (e.g., A4 or Letter).
 
 
@@ -46,18 +50,22 @@ This guide explains how to create a new notebook in GoodNotes 6 and change its c
 
 
 5. **Select a Paper Template**
-![Template](./assets/notebook/paper-template.jpg)
-   Choose a layout for your notebook pages. Options include essentials, lined paper, music sheets, and planners.
 
+    <figure markdown>
+        ![Template](./assets/notebook/paper-template.jpg){width="700"}
+    </figure>
+    Choose a layout for your notebook pages. Options include essentials, lined paper, music sheets, and planners.
 
     !!! note "Note"
         The paper template you choose will affect the look and use of your pages, so pick one that suits your purpose.
 
 
 6. **Save the Notebook**
-![Create new notebook](./assets/notebook/create_new_notebook.png)
-*Example: Notebook Name – COMM 2216*<br><br>
-Click the [Create] button to save your new notebook.
+    <figure markdown>
+        ![Create new notebook](./assets/notebook/create_new_notebook.png){width="700"}
+          <figcaption>Example: Notebook Name – COMM 2216</figcaption>
+    </figure>
+    Click the [Create] button to save your new notebook.
 
     !!! success
         Your new notebook has been created successfully! Review all settings carefully before saving to ensure everything is correct.
@@ -84,6 +92,8 @@ Make your notebook more personal by adjusting settings like scrolling direction,
 
 2. **Select Document Editing Options**
 
-   Scroll down to [Settings] and choose [Document Editing]. 
-   ![Document editing](./assets/notebook/document_editing_options.png)
+   Scroll down to [Settings] and choose [Document Editing].
+    <figure markdown>
+        ![Document editing](./assets/notebook/document_editing_options.png){width="700"}
+    </figure>
    Turn the options on or off based on your needs.
