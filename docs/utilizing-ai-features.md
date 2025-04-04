@@ -38,32 +38,32 @@ By following these instructions, you will be able to maximize GoodNotes 6’s in
     GoodNotes automatically detects your handwritten equation and highlights it in light blue. The highlight slowly flashes to indicate that further action is required.
 
 4. **Tap the Highlighted Equation and Select [Solve]**
-<figure markdown>
-    ![Solve Equation](./assets/ai/solve.png){width="700"}
-</figure>  
-    
-GoodNotes will compute and display the result.
-
-!!! note
-    You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
-
     <figure markdown>
-        ![Edit expression](./assets/ai/expression-edit.png)
-        <figcaption>Edit your expression.</figcaption>
-    </figure> 
-
-
-    <figure markdown>
-        ![Convert expression](./assets/ai/convert.png){width="700"} 
-        <figcaption>Convert your expression into typed text.</figcaption>
+        ![Solve Equation](./assets/ai/solve.png){width="700"}
     </figure>  
+        
+    GoodNotes will compute and display the result.
+
+    !!! note
+        You have other options for the equation as well. You can manually edit it with the digital keypad, copy or convert it into typed text.
+
+        <figure markdown>
+            ![Edit expression](./assets/ai/expression-edit.png)
+            <figcaption>Edit your expression.</figcaption>
+        </figure> 
 
 
-!!! tip
-    Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
-    <figure markdown>
-        ![Express answer in different formats](./assets/ai/fraction-options.png){width="700"} 
-    </figure>  
+        <figure markdown>
+            ![Convert expression](./assets/ai/convert.png){width="700"} 
+            <figcaption>Convert your expression into typed text.</figcaption>
+        </figure>  
+
+
+    !!! tip
+        Imagine your math assignment asking you to express the answer in different formats. GoodNotes gives you options! You can convert `3/2` into a mixed fraction (`1 1/2`) or a decimal (`1.5`).
+        <figure markdown>
+            ![Express answer in different formats](./assets/ai/fraction-options.png){width="700"} 
+        </figure>  
 
 5. **Write Over the Computed Answer**
     <figure markdown>
